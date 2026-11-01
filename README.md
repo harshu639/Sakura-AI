@@ -4,9 +4,6 @@ A web-based AI chatbot built with HTML, CSS, and JavaScript, powered by the **Go
 
 Type a message, and Sakura-AI sends it to Gemini and shows the AI-generated reply in a clean chat interface.
 
-![Sakura-AI screenshot](screenshot.png)
-
-<!-- Add a screenshot: take one of the running chatbot, save it as screenshot.png in this repo, and the image above will show up. -->
 
 ## Features
 
